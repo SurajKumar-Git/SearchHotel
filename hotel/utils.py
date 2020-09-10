@@ -1,5 +1,3 @@
-from math import acos, sin, cos
-from django.db.models import F, Func
 from django.db.models.functions import ACos, Sin, Cos, Radians
 from django.db.models import F, Value as V
 
